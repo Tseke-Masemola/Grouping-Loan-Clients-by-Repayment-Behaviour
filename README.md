@@ -196,7 +196,7 @@ While silhouette analysis suggested K=2 was statistically optimal, we selected *
 ## 📁 Project Files
 
 <details>
-<summary><b>View file details and descriptions...</b></summary>
+<summary><b>View</b></summary>
 
 | File | Description | Download |
 |------|-------------|----------|
@@ -204,23 +204,14 @@ While silhouette analysis suggested K=2 was statistically optimal, we selected *
 | Rmarkdown File | Complete code | [📥 Complete Code](./Final-Grouping-Loan-Clients-by-Repayment-Behavior.Rmd) |
 | Dataset | Client data (CSV format) | [📥 Crestline Bank Dataset](./Crestline-Bank-Clients-Dataset.txt) |
 
-**Note**: The dataset contains synthetic data created for this analysis to demonstrate the methodology while protecting real client confidentiality.
+**Note**: This analysis used synthetic data to demonstrate the methodology while protecting real client confidentiality.
 </details>
 
 ## 🔧 How to Reproduce
 
 <details>
-<summary><b>View detailed reproduction steps and system requirements...</b></summary>
-
-### System Requirements:
-- **R** (version 4.0 or higher)
-- **RStudio** (recommended) or any R IDE
-- **Internet connection** (for package installation)
-
-### Step-by-Step Instructions:
-
-1. **Clone or download** the project repository to your local machine
-2. **Open RStudio** and set the project directory as your working directory
-3. **Install required packages** (if not already installed):
-   ```r
-   install.packages("dplyr")
+<summary><b>View</b></summary>
+   
+1. **Download** the Rmarkdown file and Dataset above. 
+2.  **Open RStudio** and set your working directory to the folder where you saved the files.
+3.  **Run the analysis** by clicking the **"Knit"** button in RStudio.
