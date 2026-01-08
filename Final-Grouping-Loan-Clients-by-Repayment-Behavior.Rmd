@@ -581,3 +581,4 @@ Crestline Bank's new credit decision framework:
 ```{r appendix code, echo = TRUE, eval = FALSE,ref.label=c('setup', 'EDA','objective function','lloyds algo','data manipulation','elbow plot','silhouette scores','silhouette','deep silhouette','final run')}
 
 ```
+
