@@ -200,9 +200,9 @@ While silhouette analysis suggested K=2 was statistically optimal, we selected *
 
 | File | Description | Download |
 |------|-------------|----------|
-| Complete Analysis | Full 10-page PDF report with all findings | [📥 Download PDF](./Final-Grouping-Loan-Clients-by-Repayment-Behavior.pdf) |
-| Executive Summary | 2-page summary of key insights | [📥 Download Summary](./Executive-Summary.pdf) |
-| Dataset | Sample client data (CSV format) | [📥 Download Data](./Crestline_Bank_Clients_Dataset.txt) |
+| Complete Analysis | Full 10-page PDF report with all findings | [📥 Detailed Report](./Final-Grouping-Loan-Clients-by-Repayment-Behavior.pdf) |
+| Rmarkdown File | Complete code | [📥 Complete Code](./Executive-Summary.pdf) |
+| Dataset | Client data (CSV format) | [📥 Crestline Bank Dataset](./Crestline_Bank_Clients_Dataset.txt) |
 
 **Note**: The dataset contains synthetic data created for this analysis to demonstrate the methodology while protecting real client confidentiality.
 </details>
